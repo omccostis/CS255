@@ -1,7 +1,7 @@
 # CS255
 
 # Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
-The DriverPass project involved desinging a system for DriverPass, a driver training company that wanted a web-based platform that allowed students to take online practice tests, schedule on-the-road driving lessons, and track their progress. The system needed to properly hamdle user data, lesson scheduling, activity reporting, and DMV updates.
+The DriverPass project involved desinging a system for DriverPass, a driver training company that wanted a web-based platform which allows students to take online practice tests, schedule on-the-road driving lessons, and track their progress. The system needed to properly hamdle user data, lesson scheduling, activity reporting, and DMV updates.
 
 # What did you do particularly well?
 I think I was most effective at simplifying and organizing the system design in a way that makes it easy to understand for a nontechnical audience.
